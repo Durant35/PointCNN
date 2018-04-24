@@ -1,6 +1,13 @@
 # PointCNN
-
 Created by <a href="http://yangyan.li" target="_blank">Yangyan Li</a>,<a href="http://rbruibu.cn" target="_blank"> Rui Bu</a>, <a href="http://www.mcsun.cn" target="_blank">Mingchao Sun</a>, and <a href="http://www.cs.sdu.edu.cn/~baoquan/" target="_blank">Baoquan Chen</a> from Shandong University.
+```latex
+@article{li2018pointcnn,
+  title={PointCNN},
+  author={Li, Yangyan and Bu, Rui and Sun, Mingchao and Chen, Baoquan},
+  journal={arXiv preprint arXiv:1801.07791},
+  year={2018}
+}
+```
 
 ## Introduction
 
